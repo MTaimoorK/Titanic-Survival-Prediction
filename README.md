@@ -18,7 +18,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 - Clone the repository:
 ```bash
-git clone insert_your_github_link_here
+git clone https://github.com/MTaimoorK/Titanic-Survival-Prediction
 cd Titanic-Survival-Prediction
 ```
 
