@@ -46,14 +46,15 @@ jupyter notebook Titanic_Survival_Prediction.ipynb
 ## Results
 ### Logistic Regression:
 
-Training Accuracy: 80%
-Testing Accuracy: 78%
+- Training Accuracy: 80%
+- Testing Accuracy: 78%
 
 ### Random Forest Classifier:
 
-Training Accuracy: 98%
-Testing Accuracy: 82%
-GitHub Repository
+- Training Accuracy: 98%
+- Testing Accuracy: 82%
+
+## GitHub Repository
 Explore the complete code and contribute to the project on GitHub.
 
 ## Feedback and Collaboration
