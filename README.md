@@ -17,11 +17,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Running the Code
 
 - Clone the repository:
+```bash
 git clone insert_your_github_link_here
 cd Titanic-Survival-Prediction
+```
 
 - Run the Jupyter Notebook:
+```bash
 jupyter notebook Titanic_Survival_Prediction.ipynb
+```
 
 ## Data Collection & Preprocessing
 - Load the Titanic dataset from the train.csv file into a Pandas DataFrame.
